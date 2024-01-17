@@ -1,4 +1,4 @@
-def tambah(x, y):
+def tambah(angka1, angka2):
   return bil_a + bil_b
 def kurang(a, b):
   return a - b
