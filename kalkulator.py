@@ -1,5 +1,7 @@
 def tambah(a, b):
   return a + b
+def kurang(a, b):
+  return a - b
 
 print("pilih oprasi : ")
 print("1. penjumlahan : ")
@@ -16,3 +18,6 @@ if pilihan == '1':
   print(angka1. "+", angka2, "=", tambah(angka1, angka2))
 else:
   print("pilihan tidak valid")
+
+if pilihan == '2':
+  print(angka1. "-", angka2, "=", kurang(angka1, angka2))
