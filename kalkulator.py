@@ -1,8 +1,10 @@
 def tambah(angka1, angka2):
   return bil_a + bil_b
-
   return bil_a - bil_b
 def lali (a, b):
+def kurang(a, b):
+  return a - b
+def kali (a, b):
   return a x b
 
 print("pilih oprasi : ")
