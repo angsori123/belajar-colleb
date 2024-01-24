@@ -1,6 +1,6 @@
 def tambah(angka1, angka2):
   return bil_a + bil_b
-def kurang(bil a, bil b):
+
   return bil_a - bil_b
 def lali (a, b):
   return a x b
